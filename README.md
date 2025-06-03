@@ -75,6 +75,6 @@ All tools and datasets used in this project are freely available:
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/harshitha-challam) or reach out if you have questions about the project.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harshitha-challam) or reach out if you have questions about the project.
 
 

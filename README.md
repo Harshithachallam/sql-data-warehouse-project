@@ -70,7 +70,6 @@ All tools and datasets used in this project are freely available:
 - **Product Performance**
 - **Sales Trends**
 
-📄 For full details, refer to [docs/requirements.md](docs/requirements.md)
 
 ---
 

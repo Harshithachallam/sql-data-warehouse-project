@@ -74,27 +74,6 @@ All tools and datasets used in this project are freely available:
 
 ---
 
-## 📂 Repository Structure
-
-sql-data-warehouse-project/
-├── datasets/ # Raw ERP and CRM CSV datasets
-├── docs/ # Documentation and diagrams
-│ ├── etl.drawio # ETL flowchart
-│ ├── data_architecture.drawio # Architecture design
-│ ├── data_catalog.md # Dataset metadata and field descriptions
-│ ├── data_flow.drawio # Data flow diagrams
-│ ├── data_models.drawio # Star schema and modeling diagrams
-│ ├── naming-conventions.md # Table and column naming standards
-├── scripts/ # SQL scripts for ETL process
-│ ├── bronze/ # Load raw data
-│ ├── silver/ # Clean and transform data
-│ ├── gold/ # Create analytical data models
-├── tests/ # Test queries and validation scripts
-├── README.md # Project overview and documentation (this file)
-├── .gitignore # Git ignore settings
-└── requirements.txt # Project dependencies and setup instructions
-
-
 ## 📬 Contact
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/harshitha-challam) or reach out if you have questions about the project.

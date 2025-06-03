@@ -11,7 +11,7 @@ This project is part of my portfolio and showcases my skills in designing, build
 
 The project follows the **Medallion Architecture** with three data layers:
 
-![Data Architecture]("C:\Users\Rakesh\Downloads\data_architecture.png")
+![Data Architecture]![Image](https://github.com/user-attachments/assets/6a16ada4-d6a1-4d6c-b5ef-894d08c1c91e)
 
 1. **Bronze Layer**: Ingests raw data from source systems (CSV files) into SQL Server.
 2. **Silver Layer**: Cleanses, transforms, and standardizes data for analytical use.

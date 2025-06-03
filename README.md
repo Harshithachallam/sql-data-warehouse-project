@@ -76,30 +76,28 @@ All tools and datasets used in this project are freely available:
 
 ## 📂 Repository Structure
 
-sql-data-warehouse-project/
+data-warehouse-project/
 │
-├── datasets/                           # Raw ERP and CRM CSV datasets
+├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
-├── docs/                               # Documentation and diagrams
-│   ├── etl.drawio                      # ETL flowchart
-│   ├── data_architecture.drawio        # Architecture design
-│   ├── data_catalog.md                 # Dataset metadata and field descriptions
-│   ├── data_flow.drawio                # Data flow diagrams
-│   ├── data_models.drawio              # Star schema and modeling diagrams
-│   ├── naming-conventions.md           # Table and column naming standards
+├── docs/                               # Project documentation and architecture details
+│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
+│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
+│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
+│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
+│   ├── data_models.drawio              # Draw.io file for data models (star schema)
+│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
-├── scripts/                            # SQL scripts for ETL process
-│   ├── bronze/                         # Load raw data
-│   ├── silver/                         # Clean and transform data
-│   ├── gold/                           # Create analytical data models
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   ├── gold/                           # Scripts for creating analytical models
 │
-├── tests/                              # Test queries and validation scripts
+├── tests/                              # Test scripts and quality files
 │
-├── README.md                           # Project overview and documentation (this file)
-├── LICENSE                             # License file
-├── .gitignore                          # Git ignore settings
-└── requirements.txt                    # Project dependencies and setup instructions
-
+├── README.md                           # Project overview and instructions
+├── .gitignore                          # Files and directories to be ignored by Git
+└── requirements.txt                    # Dependencies and requirements for the project
 ---
 
 ## 📬 Contact
